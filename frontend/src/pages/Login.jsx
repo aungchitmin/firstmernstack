@@ -96,6 +96,8 @@ function Login() {
               Submit
             </button>
           </div>
+          <h3 style={{'text': 'center'}}>&copy; 2022 Sea Lion</h3>
+          <h3 style={{'text': 'center'}}>&hearts; Traversy Media</h3>
         </form>
       </section>
     </>
