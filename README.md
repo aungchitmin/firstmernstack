@@ -1,6 +1,7 @@
-# firstmernstack
-MERN stack goal setter from Traversy Media
+#MERN stack goal setter 
 
 Deployed on heroku.
 
-with jwt
+with jwt.
+
+credit to Traversy Media
